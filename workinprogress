@@ -1,0 +1,3 @@
+echo "Assignment4" > myinfo.html
+mkdir data
+touch data/dummy-content.txt
